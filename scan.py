@@ -1,6 +1,6 @@
 import requests
 
-choice = input("Which Network would you like to scan? (assethub, bridgehub, Collectives, People): ")
+choice = input("Which System Chain would you like to scan? (assethub, bridgehub, Collectives, People): ")
 
 if "asset" in choice:
     POLKADOT_RPC_URL = "https://polkadot-asset-hub-rpc.polkadot.io"
