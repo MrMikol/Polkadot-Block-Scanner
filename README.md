@@ -1,2 +1,2 @@
 # Polkadot-Block-Scanner
-Scans Polkadot Blocks using PolkadotApi
+Scans Polkadot Blocks using requests
