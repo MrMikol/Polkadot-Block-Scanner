@@ -1,0 +1,4 @@
+Asset Hub	https://polkadot-asset-hub-rpc.polkadot.io
+Bridge Hub	https://polkadot-bridge-hub-rpc.polkadot.io
+Collectives	https://polkadot-collectives-rpc.polkadot.io
+People Chain	https://polkadot-people-rpc.polkadot.io
